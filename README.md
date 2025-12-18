@@ -33,4 +33,7 @@ Durante o desenvolvimento deste projeto, foram aplicadas técnicas de:
 * **BDD (Behavior Driven Development)**: Foco no comportamento do usuário para facilitar a comunicação entre o time técnico e de negócios.
 
 ---
-**Desenvolvido por Rodrigo Resende Andrade Silva** *Conecte-se comigo
+**Desenvolvido por Rodrigo Resende Andrade Silva** *Conecte-se comigo no Linkdin www.linkedin.com/in/rodrigo-andrade89ti
+
+
+
